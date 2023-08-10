@@ -119,7 +119,7 @@ public class FightResource {
 	)
 	@NonBlocking
 	public String hello() {
-		return "Hello Fight Resource";
+		return "Hello Fight Resource haha";
 	}
 
 	@GET
