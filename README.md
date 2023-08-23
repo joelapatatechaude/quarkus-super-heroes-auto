@@ -154,3 +154,4 @@ Each trace also provides the total round-trip time of the request into the `/api
 
 ![Jaeger Filters](images/jaeger-3-trace.png)
 
+
