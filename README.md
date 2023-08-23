@@ -153,3 +153,4 @@ six spans in the `rest-fights` application, four spans in the `rest-heroes` appl
 Each trace also provides the total round-trip time of the request into the `/api/fights/randomfighters` endpoint within the `rest-fights` application and the total time spent within each unit of work.
 
 ![Jaeger Filters](images/jaeger-3-trace.png)
+
