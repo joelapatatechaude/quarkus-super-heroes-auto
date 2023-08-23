@@ -1,5 +1,6 @@
 # First stage builds the application
-FROM registry.access.redhat.com/ubi9/nodejs-18:1-17.1669634581 as builder
+#FROM registry.access.redhat.com/ubi9/nodejs-18:1-17.1669634581 as builder
+FROM registry.access.redhat.com/ubi9/nodejs-18-minimal:1-18 as builder
 
 # This is a hack, but until the UI has been completely re-written, this will have to do
 ENV NODE_OPTIONS=--openssl-legacy-provider
