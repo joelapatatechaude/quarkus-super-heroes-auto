@@ -1,5 +1,6 @@
 # Superheroes Battle UI
 
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Building the Application](#building-the-application)
